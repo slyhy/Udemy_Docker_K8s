@@ -20,7 +20,7 @@ The commands we used for this assignment were:
 * `docker container rm <CONTAINER NAME>`
 
 ## Steps in Action
-![No Containers](Images/01_No_Container.png)
+![No Containers](Images/01_No_Containers.png)
 ![Running Containers](Images/02_Running_Containers.png)
 ![Review MySQL Logs](Images/03_Review_MySQL_Logs.png)
 ![04_Stop_Containers](Images/04_Stop_Containers.png)
