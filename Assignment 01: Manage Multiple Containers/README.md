@@ -15,6 +15,7 @@ The first assignment of the course dealt with starting multiple containers with 
 The commands we used for this assignment were:
 * `docker container ls -a`
 * `docker container run --publish <SPECIFIED PORT> --detach --env <ENVIRONMENTAL VARIABLE IF ANY> --name <NAME> <CONTAINER IMAGE NAME>`
+* `docker ps`
 * `docker container logs <CONTAINER NAME>`
 * `docker container stop <CONTAINER NAME>`
 * `docker container rm <CONTAINER NAME>`
